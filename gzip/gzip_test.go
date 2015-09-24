@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
+	"github.com/tvmaly/gin"
 )
 
 const (

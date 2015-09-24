@@ -1,7 +1,7 @@
 package sessions
 
 import (
-	"github.com/gin-gonic/gin"
+	"github.com/tvmaly/gin"
 	"net/http"
 	"net/http/httptest"
 	"strings"
